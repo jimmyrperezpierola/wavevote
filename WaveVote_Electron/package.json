@@ -42,7 +42,7 @@
     "jquery-datetimepicker": "^2.5.4",
     "nedb": "^1.8.0",
     "nodemailer": "^4.1.0",
-    "web3": "0.20.0",
+    "web3": "0.20.7",
     "winston": "^2.3.1"
   },
   "config": {
