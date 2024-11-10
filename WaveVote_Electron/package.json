@@ -24,7 +24,7 @@
     "babel-preset-env": "^1.6.0",
     "babel-preset-react": "^6.24.1",
     "elasticsearch": "^13.3.1",
-    "electron-forge": "^4.0.0",
+    "electron-forge": "^5.2.4",
     "electron-prebuilt-compile": "1.6.12",
     "mocha": "^3.5.3"
   },
@@ -34,7 +34,7 @@
     "bignumber.js": "^4.0.3",
     "electron-compile": "^6.4.1",
     "electron-compilers": "^5.9.0",
-    "electron-forge": "^4.0.0",
+    "electron-forge": "^5.2.4",
     "elliptic": "^6.4.0",
     "fs-extra": "^4.0.2",
     "geth": "^0.4.0",
